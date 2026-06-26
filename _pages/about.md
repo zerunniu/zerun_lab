@@ -27,10 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an MPhil student in Computer Science at The University of Sydney, supervised by Nguyen Tran. My research focuses on federated learning, semantic communication, and efficient AI systems, with interests in distributed optimization, edge intelligence, and large AI model deployment over constrained networks.
+I am an MPhil student in Computer Science at The University of Sydney, supervised by Nguyen Tran. My research focuses on federated learning, semantic communication, and efficient AI systems, with interests in distributed optimization, edge intelligence, GenAI systems, and large AI model deployment over constrained networks.
 
-Before starting my MPhil, I completed a Bachelor of Advanced Computing with a major in Data Science at The University of Sydney. I am also a research assistant in the DUAL Group, where I build reproducible training and evaluation pipelines for distributed learning experiments, support paper submissions and revisions, and help maintain research artifacts.
+Before starting my MPhil, I completed a Bachelor of Advanced Computing with a major in Data Science at The University of Sydney, graduating with Distinction. I am also a research assistant in the DUAL Group, where I build reproducible training and evaluation pipelines, implement baselines and ablations, produce publication-quality figures and tables, and coordinate research artifacts for paper submissions and revisions.
+
+Alongside my research work, I serve as a Casual Academic Tutor at The University of Sydney, supporting tutorials, small-group discussions, student Q&A, and guided in-class learning activities.
 
 My current work spans distributionally robust wireless semantic communication, federated deep equilibrium learning over edge networks, and adaptive low-rank optimization for communication-efficient federated learning.
 
-**Research interests:** federated learning, semantic communication, efficient AI systems, distributed learning, parameter-efficient tuning, and ML systems for resource-constrained environments.
+**Research interests:** federated learning, semantic communication, efficient AI systems, distributed learning, parameter-efficient tuning, GenAI systems, and ML systems for resource-constrained environments.

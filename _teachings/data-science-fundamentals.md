@@ -6,10 +6,10 @@ importance: 2
 category: teaching
 ---
 
-Prepared teaching areas include algorithms and data structures, computer systems, databases, networks, distributed systems, and data engineering.
+Teaching and support areas include algorithms and data structures, computer systems, databases, networks, distributed systems, and data engineering.
 
 **Support areas**
 
 - C/C++, Java, SQL, Git/GitHub, Spark, Ray, Databricks, Hadoop, and Airflow.
-- Assignments, coding practicals, system design discussions, and project demos.
-- Student consultations, Ed discussion support, code review, and debugging guidance.
+- Tutorials, assignments, coding practicals, system design discussions, and project demos.
+- Student consultations, Ed discussion support, student Q&A, code review, and debugging guidance.

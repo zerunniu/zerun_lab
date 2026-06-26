@@ -3,8 +3,8 @@
     "name": "Zerun Niu",
     "label": "MPhil Student in Computer Science",
     "image": "",
-    "email": "zniu9834@uni.sydney.edu.au",
-    "summary": "MPhil student at The University of Sydney working on federated learning, semantic communication, and efficient AI systems.",
+    "email": "zerun.niu@sydney.edu.au",
+    "summary": "MPhil student at The University of Sydney working on federated learning, semantic communication, efficient AI systems, GenAI systems, and ML systems for resource-constrained environments.",
     "location": {
       "city": "Sydney",
       "countryCode": "AU",
@@ -30,6 +30,19 @@
   },
   "work": [
     {
+      "name": "The University of Sydney",
+      "position": "Casual Academic Tutor",
+      "location": "Sydney, Australia",
+      "startDate": "2026-02",
+      "summary": "Tutorial delivery and student learning support for university coursework.",
+      "highlights": [
+        "Delivered weekly tutorials, class activities, small-group discussions, and Q&A on course content and university learning platforms.",
+        "Supported students in developing academic communication, teamwork, and professionalism skills through guided exercises and feedback.",
+        "Created an inclusive tutorial environment to help students transition into university study and participate confidently.",
+        "Coordinated with unit staff and followed teaching guides to run tutorials consistently and effectively."
+      ]
+    },
+    {
       "name": "DUAL Group, The University of Sydney",
       "position": "Research Assistant",
       "location": "Sydney, Australia",
@@ -37,8 +50,10 @@
       "summary": "Research engineering and experimentation for distributed learning and efficient AI systems.",
       "highlights": [
         "Built reproducible training and evaluation pipelines with configs, seeds, logging, and automated reporting.",
-        "Implemented baselines, targeted ablations, and publication-quality figures and tables for paper submissions.",
-        "Designed and deployed the official DUAL Group website."
+        "Supported submission and revision cycles by implementing baselines, targeted ablations, and publication-quality figures and tables.",
+        "Addressed reviewer feedback through additional experiments and clarity edits in method and experiment sections.",
+        "Coordinated experiment ownership, timelines, and artifact handoff across code, plots, and tables to reduce duplicated effort.",
+        "Designed and deployed the official DUAL Group website for members, publications, and research projects."
       ]
     }
   ],
@@ -61,7 +76,7 @@
       "area": "Data Science",
       "studyType": "Bachelor of Advanced Computing",
       "endDate": "2025",
-      "score": "Final years WAM: 77/100",
+      "score": "Graduated with Distinction; final years WAM: 77/100",
       "courses": [
         "Machine Learning",
         "Deep Learning",
@@ -100,13 +115,43 @@
   ],
   "skills": [
     {
+      "name": "GenAI and Multimodal",
+      "keywords": [
+        "LLM/VLM orchestration",
+        "agents",
+        "tool use",
+        "multimodal adapters",
+        "LoRA",
+        "alignment",
+        "safety guardrails",
+        "jailbreak defense",
+        "RAG",
+        "automated evaluation",
+        "human-in-the-loop evaluation"
+      ]
+    },
+    {
+      "name": "Efficient Tuning",
+      "keywords": [
+        "LoRA",
+        "DyLoRA",
+        "PEFT workflows",
+        "quantization",
+        "distillation",
+        "efficient adaptation"
+      ]
+    },
+    {
       "name": "Machine Learning Engineering",
       "keywords": [
         "PyTorch",
-        "Hugging Face",
+        "Hugging Face Transformers",
         "PEFT",
         "scikit-learn",
-        "reproducible training pipelines"
+        "reproducible training pipelines",
+        "experiment tracking",
+        "modular pipeline design",
+        "API development"
       ]
     },
     {
@@ -116,8 +161,30 @@
         "Dask",
         "Databricks",
         "Spark",
+        "Hadoop",
         "Airflow",
-        "FastAPI"
+        "FastAPI",
+        "latency optimization",
+        "performance optimization",
+        "tracing",
+        "observability",
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Python",
+        "SQL",
+        "Java",
+        "C/C++",
+        "Git/GitHub",
+        "Linux",
+        "Jupyter",
+        "Pandas",
+        "NumPy"
       ]
     }
   ]

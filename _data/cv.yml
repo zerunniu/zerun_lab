@@ -2,7 +2,7 @@ cv:
   name: Zerun Niu
   headline: MPhil Student in Computer Science
   location: Sydney, Australia
-  email: zniu9834@uni.sydney.edu.au
+  email: zerun.niu@sydney.edu.au
   social_networks:
     - network: GitHub
       username: zerunniu
@@ -13,7 +13,7 @@ cv:
 
   sections:
     Summary:
-      - MPhil student at The University of Sydney working on federated learning, semantic communication, and efficient AI systems. Research interests include distributed optimization, edge intelligence, parameter-efficient tuning, and ML systems for resource-constrained environments.
+      - MPhil student at The University of Sydney working on federated learning, semantic communication, and efficient AI systems. Research interests include distributed optimization, edge intelligence, parameter-efficient tuning, GenAI systems, and ML systems for resource-constrained environments.
 
     Education:
       - institution: The University of Sydney
@@ -32,10 +32,23 @@ cv:
         location: Sydney, Australia
         end_date: 2025
         highlights:
+          - Graduated with Distinction.
           - "Final years WAM: 77/100"
           - "Relevant coursework: Machine Learning, Deep Learning, Natural Language Processing, Distributed Systems"
 
     Experience:
+      - company: The University of Sydney
+        position: Casual Academic Tutor
+        location: Sydney, Australia
+        start_date: 2026-02
+        end_date: present
+        summary: Tutorial delivery and student learning support for university coursework.
+        highlights:
+          - Delivered weekly tutorials, class activities, small-group discussions, and Q&A on course content and university learning platforms.
+          - Supported students in developing academic communication, teamwork, and professionalism skills through guided exercises and feedback.
+          - Created an inclusive tutorial environment to help students transition into university study and participate confidently.
+          - Coordinated with unit staff and followed teaching guides to run tutorials consistently and effectively.
+
       - company: DUAL Group, The University of Sydney
         position: Research Assistant
         location: Sydney, Australia
@@ -44,10 +57,10 @@ cv:
         summary: Research engineering and experimentation for distributed learning and efficient AI systems.
         highlights:
           - Built reproducible training and evaluation pipelines with configs, seeds, logging, and automated reporting.
-          - Implemented baselines, targeted ablations, and publication-quality figures and tables for paper submissions.
-          - Addressed reviewer feedback through additional experiments and clarity edits with supervisors and co-authors.
-          - Coordinated experiment ownership, timelines, and artifact handoff across code, plots, and tables.
-          - Designed and deployed the official DUAL Group website.
+          - Supported submission and revision cycles by implementing baselines, targeted ablations, and publication-quality figures and tables.
+          - Addressed reviewer feedback through additional experiments and clarity edits in method and experiment sections.
+          - Coordinated experiment ownership, timelines, and artifact handoff across code, plots, and tables to reduce duplicated effort.
+          - Designed and deployed the official DUAL Group website for members, publications, and research projects.
 
     Publications:
       - title: Distributionally Robust Wireless Semantic Communication with Large AI Models
@@ -86,29 +99,31 @@ cv:
           - Introduced group members, publications, and research projects.
           - "Website: https://dual-grp.github.io/website-dual/"
 
-    Teaching Readiness:
-      - name: Computer Science and Data Science Teaching Support
-        summary: Prepared to support labs, tutorials, code reviews, and project assessment.
+    Teaching:
+      - name: Casual Academic Tutor
+        date: 2026-02 to present
+        summary: University of Sydney tutorial delivery and student learning support.
         highlights:
+          - "Tutorial delivery: weekly tutorials, class activities, small-group discussions, and student Q&A."
           - "Subjects: Algorithms and Data Structures, Computer Systems, Machine Learning, Deep Learning, NLP, Data Science Foundations, Distributed Systems."
           - "Assessment: assignments, coding practicals, project reports, oral demos, rubric-aligned marking."
           - "Student support: consultations, Ed discussion, code reviews, debugging practices, academic integrity and citation support."
 
     Skills:
       - label: GenAI and Multimodal
-        details: LLM/VLM orchestration, agents, tool use, multimodal adapters, LoRA, alignment, safety guardrails, jailbreak defense, RAG, evaluation.
+        details: LLM/VLM orchestration, agents, tool use, multimodal adapters, LoRA, alignment, safety guardrails, jailbreak defense, RAG, automated evaluation, and human-in-the-loop evaluation.
 
       - label: Efficient Tuning
-        details: LoRA, DyLoRA, PEFT workflows, quantization, distillation.
+        details: LoRA, DyLoRA, PEFT workflows, quantization, distillation, and efficient adaptation under constrained compute budgets.
 
       - label: ML Engineering
-        details: PyTorch, Hugging Face Transformers, PEFT, scikit-learn, reproducible training pipelines, experiment tracking.
+        details: PyTorch, Hugging Face Transformers, PEFT, scikit-learn, reproducible training pipelines, experiment tracking, modular pipeline design, and API development.
 
       - label: Distributed and Data Systems
-        details: Ray, Dask, Databricks, Spark, Hadoop, Airflow, FastAPI, tracing, observability.
+        details: Ray, Dask, Databricks, Spark, Hadoop, Airflow, FastAPI, latency and performance optimization, tracing, and observability.
 
       - label: Programming
-        details: Python, SQL, Java, C/C++, Git/GitHub, Linux, Jupyter, API development.
+        details: Python, SQL, Java, C/C++, Git/GitHub, Linux, Jupyter, PostgreSQL, MySQL, MongoDB, Pandas, and NumPy.
 
     Awards:
       - name: Undergraduate Thesis High Distinction
