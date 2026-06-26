@@ -20,7 +20,7 @@ cv:
         area: Computer Science
         degree: Master of Philosophy
         location: Sydney, Australia
-        start_date: 2025
+        start_date: 2025-10-01
         end_date: present
         highlights:
           - "Supervisor: Nguyen Tran"
@@ -70,7 +70,7 @@ cv:
           - "*Zerun Niu*"
           - et al.
         journal: IEEE Journal on Selected Areas in Communications
-        date: 2025
+        date: 2026
         doi: 10.48550/arXiv.2506.03167
         url: https://doi.org/10.48550/arXiv.2506.03167
 

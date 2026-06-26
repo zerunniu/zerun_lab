@@ -63,7 +63,7 @@
       "location": "Sydney, Australia",
       "area": "Computer Science",
       "studyType": "Master of Philosophy",
-      "startDate": "2025",
+      "startDate": "2025-10-01",
       "courses": [
         "Federated Learning",
         "Semantic Communication",
@@ -89,7 +89,7 @@
     {
       "name": "Distributionally Robust Wireless Semantic Communication with Large AI Models",
       "publisher": "IEEE Journal on Selected Areas in Communications",
-      "releaseDate": "2025",
+      "releaseDate": "2026",
       "url": "https://doi.org/10.48550/arXiv.2506.03167"
     },
     {
