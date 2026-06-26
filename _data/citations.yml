@@ -1,4 +1,5 @@
 metadata:
   last_updated: "2026-06-26"
+  deploy_trigger: "repo-renamed"
 # Citation counts can be populated later with the update-citations workflow.
 papers: {}
