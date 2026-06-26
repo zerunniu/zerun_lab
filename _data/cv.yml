@@ -1,28 +1,25 @@
 cv:
   name: Zerun Niu
-  label: MPhil Student in Computer Science
-  email: zniu9834@uni.sydney.edu.au
+  headline: MPhil Student in Computer Science
   location: Sydney, Australia
-  image: ""
-  summary: MPhil student at The University of Sydney working on federated learning, semantic communication, and efficient AI systems.
-
+  email: zniu9834@uni.sydney.edu.au
   social_networks:
     - network: GitHub
       username: zerunniu
     - network: LinkedIn
       username: zerun-niu-265015300
-
-  address:
-    city: Sydney
-    region: NSW
-    countryCode: AU
+    - network: Google Scholar
+      username: 2dTScwcAAAAJ
 
   sections:
+    Summary:
+      - MPhil student at The University of Sydney working on federated learning, semantic communication, and efficient AI systems. Research interests include distributed optimization, edge intelligence, parameter-efficient tuning, and ML systems for resource-constrained environments.
+
     Education:
       - institution: The University of Sydney
-        location: Sydney, Australia
         area: Computer Science
-        studyType: Master of Philosophy
+        degree: Master of Philosophy
+        location: Sydney, Australia
         start_date: 2025
         end_date: present
         highlights:
@@ -30,13 +27,13 @@ cv:
           - "Research focus: Federated Learning, Semantic Communication, and Efficient AI Systems"
 
       - institution: The University of Sydney
-        location: Sydney, Australia
         area: Data Science
-        studyType: Bachelor of Advanced Computing
-        start_date: ""
+        degree: Bachelor of Advanced Computing
+        location: Sydney, Australia
         end_date: 2025
-        score: "Final years WAM: 77/100"
-        courses: "Machine Learning, Deep Learning, Natural Language Processing, Distributed Systems"
+        highlights:
+          - "Final years WAM: 77/100"
+          - "Relevant coursework: Machine Learning, Deep Learning, Natural Language Processing, Distributed Systems"
 
     Experience:
       - company: DUAL Group, The University of Sydney
@@ -57,40 +54,37 @@ cv:
         authors:
           - L. T. Le
           - S. H. Wanasekara
-          - Z. Niu
+          - "*Zerun Niu*"
           - et al.
-        publisher: IEEE Journal on Selected Areas in Communications
-        releaseDate: 2025
+        journal: IEEE Journal on Selected Areas in Communications
+        date: 2025
+        doi: 10.48550/arXiv.2506.03167
         url: https://doi.org/10.48550/arXiv.2506.03167
-        summary: Research on robust semantic communication for large AI model deployment over noisy and bandwidth-constrained wireless channels.
 
       - title: Federated Deep Equilibrium Learning over Resource-Constrained Edge Networks
         authors:
           - L. T. Le
-          - Z. Niu
+          - "*Zerun Niu*"
           - T. D. Nguyen
           - et al.
-        publisher: Submitted to IEEE Internet of Things Journal
-        releaseDate: 2025
-        summary: Federated deep equilibrium learning for heterogeneous clients and constrained edge environments.
+        journal: Submitted to IEEE Internet of Things Journal
+        date: 2025
 
     Projects:
       - name: Adaptive Low-Rank Optimization for Federated Learning
+        date: 2025
         summary: Undergraduate thesis integrating DyLoRA into a federated learning pipeline.
         highlights:
           - Reduced communication cost by 80% without loss of accuracy.
           - Improved training stability across clients with reproducible PyTorch experiments.
           - "Result: 85/100, High Distinction."
-        start_date: 2025
-        end_date: 2025
 
       - name: DUAL Group Website
+        date: 2024-2025
         summary: Designed and deployed the official website for the Distributed compUting, optimizAtion, and Learning group.
         highlights:
           - Introduced group members, publications, and research projects.
           - "Website: https://dual-grp.github.io/website-dual/"
-        start_date: 2024
-        end_date: 2025
 
     Teaching Readiness:
       - name: Computer Science and Data Science Teaching Support
@@ -101,35 +95,22 @@ cv:
           - "Student support: consultations, Ed discussion, code reviews, debugging practices, academic integrity and citation support."
 
     Skills:
-      - name: GenAI and Multimodal
-        level: Advanced
-        icon: fa-solid fa-hashtag
-        keywords: "LLM/VLM orchestration, agents, tool use, multimodal adapters, LoRA, alignment, safety guardrails, jailbreak defense, RAG, evaluation"
+      - label: GenAI and Multimodal
+        details: LLM/VLM orchestration, agents, tool use, multimodal adapters, LoRA, alignment, safety guardrails, jailbreak defense, RAG, evaluation.
 
-      - name: Efficient Tuning
-        level: Advanced
-        icon: fa-solid fa-hashtag
-        keywords: "LoRA, DyLoRA, PEFT workflows, quantization, distillation"
+      - label: Efficient Tuning
+        details: LoRA, DyLoRA, PEFT workflows, quantization, distillation.
 
-      - name: ML Engineering
-        level: Advanced
-        icon: fa-solid fa-hashtag
-        keywords: "PyTorch, Hugging Face Transformers, PEFT, scikit-learn, reproducible training pipelines, experiment tracking"
+      - label: ML Engineering
+        details: PyTorch, Hugging Face Transformers, PEFT, scikit-learn, reproducible training pipelines, experiment tracking.
 
-      - name: Distributed and Data Systems
-        level: Advanced
-        icon: fa-solid fa-hashtag
-        keywords: "Ray, Dask, Databricks, Spark, Hadoop, Airflow, FastAPI, tracing, observability"
+      - label: Distributed and Data Systems
+        details: Ray, Dask, Databricks, Spark, Hadoop, Airflow, FastAPI, tracing, observability.
 
-      - name: Programming
-        level: Advanced
-        icon: fa-solid fa-hashtag
-        keywords: "Python, SQL, Java, C/C++, Git/GitHub, Linux, Jupyter, API development"
+      - label: Programming
+        details: Python, SQL, Java, C/C++, Git/GitHub, Linux, Jupyter, API development.
 
     Awards:
-      - title: Undergraduate Thesis High Distinction
-        authors:
-          - The University of Sydney
+      - name: Undergraduate Thesis High Distinction
         date: 2025
-        awarder: The University of Sydney
         summary: Adaptive Low-Rank Optimization for Federated Learning, score 85/100.
