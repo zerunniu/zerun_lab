@@ -84,14 +84,6 @@ cv:
         date: 2025
 
     Projects:
-      - name: Adaptive Low-Rank Optimization for Federated Learning
-        date: 2025
-        summary: Undergraduate thesis integrating DyLoRA into a federated learning pipeline.
-        highlights:
-          - Reduced communication cost by 80% without loss of accuracy.
-          - Improved training stability across clients with reproducible PyTorch experiments.
-          - "Result: 85/100, High Distinction."
-
       - name: DUAL Group Website
         date: 2024-2025
         summary: Designed and deployed the official website for the Distributed compUting, optimizAtion, and Learning group.

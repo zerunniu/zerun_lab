@@ -100,14 +100,6 @@
   ],
   "projects": [
     {
-      "name": "Adaptive Low-Rank Optimization for Federated Learning",
-      "summary": "Undergraduate thesis integrating DyLoRA into a federated learning pipeline.",
-      "highlights": [
-        "Reduced communication cost by 80% without loss of accuracy.",
-        "Received 85/100, High Distinction."
-      ]
-    },
-    {
       "name": "DUAL Group Website",
       "summary": "Designed and deployed the official website for the DUAL Group.",
       "url": "https://dual-grp.github.io/website-dual/"
