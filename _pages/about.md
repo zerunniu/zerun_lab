@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an MPhil student in Computer Science at The University of Sydney, supervised by Nguyen Tran. My research focuses on federated learning, semantic communication, and efficient AI systems, with interests in distributed optimization, edge intelligence, GenAI systems, and large AI model deployment over constrained networks.
+I am an MPhil student in Computer Science at The University of Sydney, supervised by Associate Professor Nguyen H. Tran. My research focuses on efficient large AI systems, edge intelligence, and semantic communication, with interests in GenAI systems, resource-constrained model deployment, and federated learning over distributed networks.
 
 Before starting my MPhil, I completed a Bachelor of Advanced Computing with a major in Data Science at The University of Sydney, graduating with Distinction. I am also a research assistant in the DUAL Group, where I build reproducible training and evaluation pipelines, implement baselines and ablations, produce publication-quality figures and tables, and coordinate research artifacts for paper submissions and revisions.
 
